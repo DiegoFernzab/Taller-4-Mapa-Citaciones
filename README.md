@@ -21,16 +21,15 @@ El proyecto define un tipo IdArticulo para identificar artículos y una clase Ma
 Cómo usar
 Compila el código con un compilador compatible con C++11 o superior:
 
-bash
-Copiar
+
 g++ -std=c++11 main.cpp -o mapa_citaciones
 Ejecuta el programa:
 
-bash
-Copiar
+
+
 ./mapa_citaciones
 Modifica el archivo main.cpp para agregar artículos y relaciones, o adapta el código para leer datos desde archivos externos.
 
 Autor
-[Tu nombre]
+Diego Fernando Zabala
 
